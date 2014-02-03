@@ -1,28 +1,16 @@
-TrinityCore-MOP-5.0.5
-=====================
-
-TrinityCore MOP 5.0.5 leak - PandaWOW / Pandashan
-
-SQL / dbc, maps, vmaps not included, file too big for GitHub
-
-People are selling this source for a lot of money, i'm giving it out for free.
-
-
-https://github.com/Kittnz/TrinityCore-MOP-5.0.5
-
-Database:
+## Download Database
 
 https://www.dropbox.com/s/9beutzesui17xt7/Database.rar
 
 
-# ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
+# ![logo](http://community.pandashan.com/public/style_images/d3v/logo.png)
 
 
 ## Introduction
 
-TrinityCore is a *MMORPG* Framework based mostly in C++.
+JadeCore is a *MMORPG* Framework based mostly in C++.
 
-It is derived from *MaNGOS*, the *Massive Network Game Object Server*, and is
+It is derived from *TrinityCore*, and is
 based on the code of that project with extensive changes over time to optimize,
 improve and cleanup the codebase at the same time as improving the in-game
 mechanics and functionality.
@@ -32,8 +20,8 @@ It is completely open source; community involvement is highly encouraged.
 If you wish to contribute ideas or code please visit our site linked below or
 make pull requests to our [Github repository](https://github.com/TrinityCore/TrinityCore).
 
-For further information on the TrinityCore project, please visit our project
-website at [TrinityCore.org](http://www.trinitycore.org).
+For further information on the JadeCore project, please visit our project
+website at [Pandashan.com](http://www.pandashan.com).
 
 
 ## Requirements
@@ -88,7 +76,7 @@ Read file [THANKS](THANKS)
 
 ## Links
 
-[Site](http://www.trinitycore.org)
+[Site](http://www.pandashan.com)
 
 [Wiki](http://trinitycore.info)
 
